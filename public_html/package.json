@@ -1,0 +1,13 @@
+{
+  "name": "dstu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
